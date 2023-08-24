@@ -1,0 +1,17 @@
+<!--<beans xmlns="http://www.springframework.org/schema/beans"-->
+<!--       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"-->
+<!--       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">-->
+<!--    <bean id="studentRepository" class="org.nexttech.repos.repositoryList.StudentRepository" />-->
+<!--    <bean id="studentService" class="org.nexttech.service.implementation.StudentService">-->
+<!--        <constructor-arg ref="studentRepository" />-->
+<!--        <constructor-arg ref="studentMapper" />-->
+
+
+<!--    </bean>-->
+<!--    <bean id="studentController" class="org.nexttech.controller.StudentRestController">-->
+<!--        <constructor-arg ref="studentController" />-->
+<!--        <constructor-arg ref="studentService" />-->
+<!--    </bean>-->
+<!--    <bean id="studentMapper" class="org.nexttech.dtos.MapperImplementation>-->
+<!--    </bean>-->
+<!--</beans>-->
